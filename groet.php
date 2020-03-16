@@ -1,5 +1,5 @@
 <?php
-echo "hallo gebruiker" . " " ;
+echo "hallo gebruiker" ;
 $readline = readline('');
 
 echo $readline;
